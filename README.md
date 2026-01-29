@@ -1,1 +1,1 @@
-# Sistemi Embedded e IoT
+# Interfaccia grafica Riscaldamento
